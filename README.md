@@ -9,7 +9,6 @@
   <li>Transaction History 📜</li>
   <li>Deposit and Withdraw 💰</li>
   <li>Transfer to Another User 🔁</li>
-  <li>PIN Reset using DOB and Phone Number 🔓</li>
 </ul>
 
 <hr>
